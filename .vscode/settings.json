@@ -14,5 +14,8 @@
     "C_Cpp.default.compileCommands": [
         "${workspaceFolder}/build/debug/compile_commands.json"
     ],
-    "C_Cpp.default.cStandard": "c99"
+    "C_Cpp.default.cStandard": "c99",
+    "files.associations": {
+        "thread": "cpp"
+    }
 }
